@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{82EC4EEC-185B-430C-A060-835515EC9A8F}" SchemaVersion="75">
+	<SoundcasterSessions>
+		<WorkUnit Name="Default Work Unit" ID="{82EC4EEC-185B-430C-A060-835515EC9A8F}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundcasterSession Name="game" ID="{730454B2-C358-4AE2-A94A-2AC3E9CEA091}">
+					<ModuleList>
+						<Module>
+							<ObjectRef Name="Gmae_music_play" ID="{0FA175FC-A0DB-4580-81A6-915139F8E0AE}" WorkUnitID="{8974C7F7-7013-443E-8FE0-E96CC560512B}"/>
+							<Position X="0" Y="0"/>
+						</Module>
+					</ModuleList>
+					<RTPCValueList ShowAll="true"/>
+					<CurrentStateList ShowAll="true">
+						<CurrentStateRef Name="Win" ID="{3324D306-5CE1-458E-934A-3473FC2AD95E}"/>
+					</CurrentStateList>
+					<CurrentSwitchList ShowAll="true">
+						<CurrentSwitchRef Name="Menu" ID="{6839D099-C21E-4494-AB9E-9B281EA1E44C}"/>
+					</CurrentSwitchList>
+				</SoundcasterSession>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundcasterSessions>
+</WwiseDocument>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{BD2B3E6D-3A84-4CDF-92C1-F354AE7BBFDF}" SchemaVersion="75">
+	<States>
+		<WorkUnit Name="Default Work Unit" ID="{BD2B3E6D-3A84-4CDF-92C1-F354AE7BBFDF}" PersistMode="Standalone">
+			<ChildrenList>
+				<StateGroup Name="Battle" ID="{798EB1B3-1807-48FD-9526-D412736849D2}">
+					<ChildrenList>
+						<State Name="None" ID="{3EF4AD99-E265-4E58-A83D-280D81F15550}"/>
+						<State Name="Win" ID="{3324D306-5CE1-458E-934A-3473FC2AD95E}"/>
+						<State Name="Lose" ID="{D2450324-C7B9-458C-8B26-D6E199C9FC04}"/>
+					</ChildrenList>
+				</StateGroup>
+			</ChildrenList>
+		</WorkUnit>
+	</States>
+</WwiseDocument>

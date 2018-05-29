@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{8974C7F7-7013-443E-8FE0-E96CC560512B}" SchemaVersion="75">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{8974C7F7-7013-443E-8FE0-E96CC560512B}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Gmae_music_play" ID="{0FA175FC-A0DB-4580-81A6-915139F8E0AE}">
+					<ChildrenList>
+						<Action Name="Set Switch" ID="{5B2189B3-BB63-4701-B8DC-A21A3B5BF94D}" ShortID="778310910" Type="SetSwitch" Scope="All" Global="false">
+							<SetItemParam>
+								<Group Name="Gmae" ID="{35A199C4-7800-4FCD-8327-C08514C6F510}"/>
+								<GroupItem Name="Login" ID="{1F5E6C13-0685-49B3-B668-D8CC2B234F29}"/>
+							</SetItemParam>
+						</Action>
+						<Action Name="Play" ID="{DBB8ECA7-2311-459D-BACF-ACAF3B928323}" ShortID="383353831" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{4177F216-9E5E-46BC-90BD-79C90F9A07AE}" Global="false">
+									<ObjectRef Name="101_Music" ID="{9C2B029B-FFC9-4EE9-AD9E-68BD4AA00670}" WorkUnitID="{6F16598D-CFEA-4FF5-8A89-2C1DE694CF5F}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{8C3EF84F-F250-4382-9C52-5E0E322CFCC5}" SchemaVersion="75">
+	<Switches>
+		<WorkUnit Name="Default Work Unit" ID="{8C3EF84F-F250-4382-9C52-5E0E322CFCC5}" PersistMode="Standalone">
+			<ChildrenList>
+				<SwitchGroup Name="Gmae" ID="{35A199C4-7800-4FCD-8327-C08514C6F510}">
+					<ChildrenList>
+						<Switch Name="Login" ID="{1F5E6C13-0685-49B3-B668-D8CC2B234F29}"/>
+						<Switch Name="Menu" ID="{6839D099-C21E-4494-AB9E-9B281EA1E44C}"/>
+						<Switch Name="Battle" ID="{34EA8969-E761-4769-87B2-A03CF2087EF1}"/>
+					</ChildrenList>
+				</SwitchGroup>
+			</ChildrenList>
+		</WorkUnit>
+	</Switches>
+</WwiseDocument>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationCache Version="1" SchemaVersion="75">
+	<ValidationCacheItem File="F:\DM101\wwise\101\101.wproj" DateLow="4214255517" DateHigh="30666139"/>
+	<ValidationCacheItem File="F:\DM101\wwise\101\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="4214849025" DateHigh="30666139"/>
+	<ValidationCacheItem File="F:\DM101\wwise\101\Attenuations\Default Work Unit.wwu" DateLow="4214430703" DateHigh="30666139"/>
+	<ValidationCacheItem File="F:\DM101\wwise\101\Audio Devices\Default Work Unit.wwu" DateLow="4214778848" DateHigh="30666139"/>
+	<ValidationCacheItem File="F:\DM101\wwise\101\Control Surface Sessions\Default Work Unit.wwu" DateLow="4214748792" DateHigh="30666139"/>
+	<ValidationCacheItem File="F:\DM101\wwise\101\Conversion Settings\Default Work Unit.wwu" DateLow="4214593076" DateHigh="30666139"/>
+	<ValidationCacheItem File="F:\DM101\wwise\101\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1043032313" DateHigh="30666139"/>
+	<ValidationCacheItem File="F:\DM101\wwise\101\Dynamic Dialogue\Default Work Unit.wwu" DateLow="4214498089" DateHigh="30666139"/>
+	<ValidationCacheItem File="F:\DM101\wwise\101\Effects\Default Work Unit.wwu" DateLow="4214325424" DateHigh="30666139"/>
+	<ValidationCacheItem File="F:\DM101\wwise\101\Effects\Factory Effects.wwu" DateLow="1044792005" DateHigh="30666139"/>
+	<ValidationCacheItem File="F:\DM101\wwise\101\Events\Default Work Unit.wwu" DateLow="4214879102" DateHigh="30666139"/>
+	<ValidationCacheItem File="F:\DM101\wwise\101\Game Parameters\Default Work Unit.wwu" DateLow="4214623433" DateHigh="30666139"/>
+	<ValidationCacheItem File="F:\DM101\wwise\101\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="4214390839" DateHigh="30666139"/>
+	<ValidationCacheItem File="F:\DM101\wwise\101\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="4214939265" DateHigh="30666139"/>
+	<ValidationCacheItem File="F:\DM101\wwise\101\Mixing Sessions\Default Work Unit.wwu" DateLow="4214558252" DateHigh="30666139"/>
+	<ValidationCacheItem File="F:\DM101\wwise\101\Modulators\Default Work Unit.wwu" DateLow="4214718676" DateHigh="30666139"/>
+	<ValidationCacheItem File="F:\DM101\wwise\101\Presets\Default Work Unit.wwu" DateLow="4214532991" DateHigh="30666139"/>
+	<ValidationCacheItem File="F:\DM101\wwise\101\Queries\Default Work Unit.wwu" DateLow="4214688593" DateHigh="30666139"/>
+	<ValidationCacheItem File="F:\DM101\wwise\101\Queries\Factory Queries.wwu" DateLow="1042691401" DateHigh="30666139"/>
+	<ValidationCacheItem File="F:\DM101\wwise\101\SoundBanks\Default Work Unit.wwu" DateLow="4214818678" DateHigh="30666139"/>
+	<ValidationCacheItem File="F:\DM101\wwise\101\Soundcaster Sessions\Default Work Unit.wwu" DateLow="4214463003" DateHigh="30666139"/>
+	<ValidationCacheItem File="F:\DM101\wwise\101\States\Default Work Unit.wwu" DateLow="4214653525" DateHigh="30666139"/>
+	<ValidationCacheItem File="F:\DM101\wwise\101\Switches\Default Work Unit.wwu" DateLow="4214909221" DateHigh="30666139"/>
+	<ValidationCacheItem File="F:\DM101\wwise\101\Triggers\Default Work Unit.wwu" DateLow="4214360657" DateHigh="30666139"/>
+</ValidationCache>
